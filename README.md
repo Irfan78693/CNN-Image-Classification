@@ -32,12 +32,15 @@ The model performs image preprocessing, feature extraction, training, and classi
 * Dropout Layer
 * Softmax Output Layer
 
+## Dataset
+Dataset Link:
+[https://www.kaggle.com/datasets/salader/dogs-vs-cats](https://www.kaggle.com/datasets/kausthubkannan/5-flower-types-classification-dataset/data)
+
 ## 📊 Output
 
-* Classified Images
-  images/prediction_output.png
-* Accuracy Graph
-* Loss Graph
+![Prediction_output](images/prediction_output.png)
+![Accuracy Graph](images/accuracy_graph.png)
+![Loss Graph](images/loss_graph.png)
 
 ## 🔥 Skills Demonstrated
 
