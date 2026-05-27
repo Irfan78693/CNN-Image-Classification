@@ -35,6 +35,7 @@ The model performs image preprocessing, feature extraction, training, and classi
 ## 📊 Output
 
 * Classified Images
+  images/prediction_output.png
 * Accuracy Graph
 * Loss Graph
 
